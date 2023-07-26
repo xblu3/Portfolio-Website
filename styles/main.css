@@ -147,35 +147,39 @@ p{
     border: dotted;
     border-color: grey;
     text-align: center;
-    margin: 2rem;
-    
+    margin-bottom: 2rem;    
 }
 
 #workHistory--section{
     border: dotted;
     border-color: grey;
     text-align: center;
-    margin: 2rem;
+    margin-bottom: 2rem;    
+    margin-top: 2rem;    
+
 }
 #additionalCourses--section{
     border: dotted;
     border-color: grey;
     text-align: center;
-    margin: 2rem;
+    margin-bottom: 2rem;    
+    margin-top: 2rem; 
 }
 
 #projects--section{
     border: dotted;
     border-color: grey;
     text-align: center;
-    margin: 2rem;
+    margin-bottom: 2rem;    
+    margin-top: 2rem; 
 }
 
 #hobby--section{
     border: dotted;
     border-color: grey;
     text-align: center;
-    margin: 2rem;
+    margin-bottom: 2rem;    
+    margin-top: 2rem; 
 }
 
 #writeups--list {
@@ -193,6 +197,7 @@ h4{
 
 
 #wrapper--techstack__items{
+    
     display: flex;
     flex-wrap: wrap;
     gap: 0.8em;
@@ -205,7 +210,6 @@ h4{
     border-radius: 5px;
     border-color: white;
     padding: 0.5em 1em;
-    align-items: center;
 }
 
 .card--project{
