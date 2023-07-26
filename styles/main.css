@@ -88,10 +88,10 @@ a{
 }
 
 #profile-pic{
- height: 180px;
-    object-fit: cover;    
+    height: 180px;
+    width: 180px;
+    object-fit: fill;
     border-radius: 50%;
-    width: 200%;
 }
 
 #email{
